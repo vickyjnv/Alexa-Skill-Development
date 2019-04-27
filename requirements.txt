@@ -1,0 +1,26 @@
+Node.js 6.10 +
+
+Next, we are going to implement our code locally and we would need to install dependencies before we “deploy” our code to AWS lambda. To do that we will need npm to install them. So if you don’t have it yet on your computer you can find how to do that on the Node.js page. AWS Lambda runs on Node.js version 6.10 so we would need the same version or newer.
+
+
+
+
+
+
+AWS free tier account
+
+In order to implement AWS Lambda functions, we need AWS account. AWS provides an option to register an AWS Free Tier account. So if you don’t have any, go ahead and register.
+
+During the registration process, AWS will ask credit card information. That is one of the requirements even though using a lambda (well in our case) will not cost you anything.
+Amazon developer account
+
+
+
+
+
+
+
+
+The last but not least you will need Amazon developer account. That is where we will create our skills and define a shape of them. Visit developer.amazon.com to create a new account.
+
+OK, now, once we have every piece ready, let’s start to build our first skill.
