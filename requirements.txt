@@ -24,3 +24,4 @@ Amazon developer account
 The last but not least you will need Amazon developer account. That is where we will create our skills and define a shape of them. Visit developer.amazon.com to create a new account.
 
 OK, now, once we have every piece ready, let’s start to build our first skill.
+
