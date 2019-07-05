@@ -36,3 +36,4 @@ exports.handler = function (event, context, callback) {
   alexa.registerHandlers(handlers);
   alexa.execute();
 };
+
