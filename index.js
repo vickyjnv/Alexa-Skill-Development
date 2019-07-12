@@ -8,6 +8,7 @@ const handlers = {
   'LaunchRequest': function () {
     this.emit('WhatDidILearnIntent');
   },
+  
   'WhatDidILearnIntent': function () {
     const say = 'Congratulations! You have learned how to build your first Alexa skill.';
 
